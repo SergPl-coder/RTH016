@@ -1,0 +1,2 @@
+16.10.2025, 10:00, D.Czekajski - first commit of common R-theta test sequence.
+SOFTWARE_CVID - C38F738DC32801EC
