@@ -4,3 +4,5 @@ SOFTWARE_CVID - C38F738DC32801EC
 SOFTWARE_CVID - C38F738D3AA66BC1
 20.10.2025, 12:30, D.Czekajski - Si test sequence reworked, limits corrected, deleted links to other sequences and directories - R-theta specific VIs added to the repository.
 SOFTWARE_CVID - 30ACA231D44D1E74
+20.10.2025, 15:30, D.Czekajski - Added tester warmup mechanism to ensure correct coolant temperature throughout the process.
+SOFTWARE_CVID - 30ACA2315944786E
