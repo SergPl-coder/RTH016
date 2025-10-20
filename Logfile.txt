@@ -2,3 +2,5 @@
 SOFTWARE_CVID - C38F738DC32801EC
 17.10.2025, 10:30, D.Czekajski - bug fixes.
 SOFTWARE_CVID - C38F738D3AA66BC1
+20.10.2025, 12:30, D.Czekajski - Si test sequence reworked, limits corrected, deleted links to other sequences and directories - R-theta specific VIs added to the repository.
+SOFTWARE_CVID - 30ACA231D44D1E74
