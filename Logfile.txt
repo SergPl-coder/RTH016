@@ -6,3 +6,5 @@ SOFTWARE_CVID - C38F738D3AA66BC1
 SOFTWARE_CVID - 30ACA231D44D1E74
 20.10.2025, 15:30, D.Czekajski - Added tester warmup mechanism to ensure correct coolant temperature throughout the process.
 SOFTWARE_CVID - 30ACA2315944786E
+29.10.2025, 12:00, D.Czekajski - Integrated manual and Linktron automatic line sequences into one, removal of Rref tests and alignment of the limits.
+SOFTWARE_CVID - 230151E72ED9DD64
