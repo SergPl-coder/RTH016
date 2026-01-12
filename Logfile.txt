@@ -8,3 +8,5 @@ SOFTWARE_CVID - 30ACA231D44D1E74
 SOFTWARE_CVID - 30ACA2315944786E
 29.10.2025, 12:00, D.Czekajski - Integrated manual and Linktron automatic line sequences into one, removal of Rref tests and alignment of the limits.
 SOFTWARE_CVID - 230151E72ED9DD64
+12.01.2025, 09:00, D.Czekajski - added 66869984 AMG partnumber.
+SOFTWARE_CVID - 230151E7606B312C
